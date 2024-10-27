@@ -1,4 +1,6 @@
-# 적외선 센서를 사용한 사용한 자동제어 시스템
+# RaspberryPi-IoT-IRModule
+
+적외선 센서를 사용한 사용한 자동제어 시스템
 
 ![회로도](description/circuit.png)
 
